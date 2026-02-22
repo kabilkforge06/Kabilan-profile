@@ -1,52 +1,130 @@
-<p align="center">
-  <img src="https://github.com/kabilkforge06/kabil-s_Info/blob/main/K_Banner.png?raw=true" alt="Kabilan Murali Banner" width="100%" />
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Kabilan M</strong>
+</h1>
+
+<h3>AI Full Stack Developer | Agentic AI • MERN • Python</h3>
+
+<div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+
+  <p>
+    I'm an IT student passionate about building intelligent AI-powered web applications and Agentic AI systems.  
+    I enjoy combining full-stack development with Generative AI to create smart platforms that solve real-world problems.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+    <a href="mailto:kabilanmurali06@email.com"><img src="https://img.shields.io/badge/📧_kabilanmurali06@email.com-1e1e2e?style=for-the-badge" /></a>
+    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(AI_&_Web_Projects)-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🚀_Building_AI_Agents-1e1e2e?style=for-the-badge" />
+  </p>
+
+<h3>🌐 Socials</h3>
+
+<p align="left">
+  <a href="https://github.com/kabilkforge06">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/kabilanmurali">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+  </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=kabilkforge06&style=flat-square&color=blue" alt="Profile Visit"/>
+</div>
 
-
-# 👋 Hi, I'm Kabilan
-
-💡 AI Enthusiast | Exploring the Future of Agentic AI  
-🚀 Passionate about building intelligent Agents
+<br clear="all" />
 
 ---
 
 ## 🧠 About Me
-I'm an aspiring full-stack developer blending the best of the **MERN stack** with cutting-edge **AI capabilities**.  
-Currently diving into:
-- 🌐 **React**, **JavaScript**, **Node.js**, **MongoDB**
-- 🧠 **Python**, **Machine Learning**, **Prompt Engineering**
-- 🤖 Inspired by **Generative AI** and **Agentic AI**, I aim to build smart agents and tools that think, reason, and interact!
+
+- 🎓 B.Tech Information Technology Student  
+- 🤖 Generative AI & Agentic AI Enthusiast  
+- 🌐 AI Full Stack Developer (React • NodeJS • Python • MongoDB)  
+- 🚀 Passionate about building intelligent agents and smart platforms
 
 ---
 
-## 🛠️ Tech Stack & Tools
-- **Frontend:** React, HTML5, CSS3, JavaScript
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **AI/ML:** Python, scikit-learn, OpenAI APIs
-- **Tools:** VS Code, Git & GitHub, Postman
+## 🛠️ Skills
+<p align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>💻 Programming Languages</h3>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
+<br/><br/>
+
+</td>
+
+<td width="50%" align="center">
+<h3>📚 Frameworks & Libraries</h3>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+<h3>🗄️ Databases</h3>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<br/><br/>
+</td>
+
+<td width="50%" align="center">
+<h3>🧰 Tools & Platforms</h3>
+<img src="https://skillicons.dev/icons?i=git,vscode,postman" />
+</td>
+</tr>
+</table>
+</p>
 
 ---
 
-## 📌 Goals
-- 🔨 Build a portfolio of projects combining web apps with AI-powered features
-- 🤖 Create intelligent agents that simulate reasoning and planning
-- 📚 Continuously learn and grow in the field of Generative AI and prompt design
+## 🚀 Featured Projects
+
+### 🤖 CareerMate AI – Smart Career Development Hub
+AI-powered platform for career planning, alumni networking, and mentorship using LLM-based resume analysis, intelligent alumni matching, and personalized career roadmaps.
+
+### 🏙️ Fixitizen – Smart Civic Grievance Management System
+AI-assisted civic platform with OTP-based complaint filing, GPS tagging, multilingual chatbot, and role-based dashboards to improve transparency and governance.
 
 ---
 
-## 🌱 Current Focus
-- Building a MERN + AI mini-project
-- Practicing React & ML fundamentals
-- Studying how to integrate LLMs into real-world applications
+## 💼 Experience
+
+**🧠 Generative AI & Agentic AI Intern – DigiDARA Technologies**  
+Worked on ML, LLMs, RAG pipelines, Vector DBs, LangChain & LangGraph while building AI agent systems.
+
+**🌐 Full Stack Web Development Intern – ATS Accent Techno Soft**  
+Developed web components using HTML, CSS, JavaScript and backend integration concepts.
 
 ---
 
-## 📫 Connect with Me
-- 🔗 LinkedIn: *[www.linkedin.com/in/kabilan-m-031ab732b]*
-- 🌐 Portfolio: *[Add your personal site if available]*
+## 🏆 Hackathons
+
+- 🧪 India International Science Festival (IISF) 2025 – S&T Hackathon  
+- ⚡ SMARTATHON – National Level Hackathon (IEEE IAS, L&T, Anna University)  
+- 🌾 Agri Tech 2.0 – 24Hr Hackathon  
+- 🤖 Shaastra Techathon 2024 – IIT Madras
 
 ---
 
-> “Code like a developer. Think like a researcher. Build like an innovator.” 🚀
+## 📊 GitHub Stats
+
+<div align="center">
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=kabilkforge06&theme=dark&hide_border=true" alt="Streak" />
+</div>
+
+---
+
+## ❤️ Support Me
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⭐_Follow_for_AI_Projects-1e1e2e?style=for-the-badge" />
+</p>
